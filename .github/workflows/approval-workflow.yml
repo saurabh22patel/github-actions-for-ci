@@ -1,1 +1,2 @@
 name: NGITOT approval workflow
+on: pull_request_review
